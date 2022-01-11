@@ -1,0 +1,10 @@
+{
+    "policyId": "64700329d616f20f4e83f2bc579513fca51646d47466a97f8fd1c229",
+    "name": "DIX",
+    "symbol": "DIX",
+    "website": "https://www.playmatesociety.com/dixtoken",
+    "description": "DIX Token the community coin of the PlaymateSociety and MATELAND the Metaverse.",
+    "totalSupply": 33000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000],
+    "decimalPlaces": 6
+}
